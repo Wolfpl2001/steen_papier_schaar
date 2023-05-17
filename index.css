@@ -1,0 +1,33 @@
+#game {
+    margin-top: 20px;
+    color: white;
+
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  body{
+    background: url('../RPS/img/BG.png')no-repeat;
+    color: white;
+  }
+  .text{
+    color:white;
+  }
+  section {
+    position: fixed;
+    padding: initial;
+    background: transparent;
+    border: 1px solid gray;
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+    margin-top: 16%;
+    margin-left: 40%;
+  }
